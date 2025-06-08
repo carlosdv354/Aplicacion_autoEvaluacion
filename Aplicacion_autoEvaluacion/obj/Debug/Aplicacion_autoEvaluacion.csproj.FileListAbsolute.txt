@@ -1,0 +1,11 @@
+C:\Users\56996\Desktop\QA\Aplicacion_autoEvaluacion\Aplicacion_autoEvaluacion\bin\Debug\Aplicacion_autoEvaluacion.exe.config
+C:\Users\56996\Desktop\QA\Aplicacion_autoEvaluacion\Aplicacion_autoEvaluacion\bin\Debug\Aplicacion_autoEvaluacion.exe
+C:\Users\56996\Desktop\QA\Aplicacion_autoEvaluacion\Aplicacion_autoEvaluacion\bin\Debug\Aplicacion_autoEvaluacion.pdb
+C:\Users\56996\Desktop\QA\Aplicacion_autoEvaluacion\Aplicacion_autoEvaluacion\obj\Debug\Aplicacion_autoEvaluacion.csproj.AssemblyReference.cache
+C:\Users\56996\Desktop\QA\Aplicacion_autoEvaluacion\Aplicacion_autoEvaluacion\obj\Debug\Aplicacion_autoEvaluacion.formulario.resources
+C:\Users\56996\Desktop\QA\Aplicacion_autoEvaluacion\Aplicacion_autoEvaluacion\obj\Debug\Aplicacion_autoEvaluacion.Properties.Resources.resources
+C:\Users\56996\Desktop\QA\Aplicacion_autoEvaluacion\Aplicacion_autoEvaluacion\obj\Debug\Aplicacion_autoEvaluacion.view.Login.resources
+C:\Users\56996\Desktop\QA\Aplicacion_autoEvaluacion\Aplicacion_autoEvaluacion\obj\Debug\Aplicacion_autoEvaluacion.csproj.GenerateResource.cache
+C:\Users\56996\Desktop\QA\Aplicacion_autoEvaluacion\Aplicacion_autoEvaluacion\obj\Debug\Aplicacion_autoEvaluacion.csproj.CoreCompileInputs.cache
+C:\Users\56996\Desktop\QA\Aplicacion_autoEvaluacion\Aplicacion_autoEvaluacion\obj\Debug\Aplicacion_autoEvaluacion.exe
+C:\Users\56996\Desktop\QA\Aplicacion_autoEvaluacion\Aplicacion_autoEvaluacion\obj\Debug\Aplicacion_autoEvaluacion.pdb
